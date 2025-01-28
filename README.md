@@ -49,9 +49,6 @@ rajiramasam-my-portfolio/
    ```
 3. Open `index.html` in a browser.
 
-## 📸 Screenshots
-![Portfolio Screenshot](images/special/windows-dark.avif)
-
 ## 📬 Contact Me
 📧 Email: rajiramasamy1811@gmail.com
 💼 LinkedIn: [Profile](www.linkedin.com/in/rajalakshmi18)  
