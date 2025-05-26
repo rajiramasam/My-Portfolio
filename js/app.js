@@ -26,7 +26,7 @@ particlesJS('particles-js',
       "value": "#FFAC00"
     },
     "shape": {
-      "type": "star",
+      "type": "circle",
       "stroke": {
         "width": 0,
         "color": "#FFAC00"
